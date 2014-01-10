@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+if (${1:true}) {
+  ${2:doit}
+}
+else if (${3:false}) {
+  ${4:dooit}
+}
+else {
+  ${5:doooit}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ifee</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+if (${1:expression}){
+	${2:dothis}
+}
+else {
+	${3:dothat}
+}
+]]></content>
+	<tabTrigger>ife</tabTrigger>
+	<scope>source.js, source.cpp</scope>
+	<description>my if ... else</description>
+</snippet>

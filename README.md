@@ -1,4 +1,4 @@
 Sublime
 =======
 
-Sublime Stuff such as settings and snippets
+Sublime stuff such as settings and snippets

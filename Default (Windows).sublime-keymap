@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+alt+s"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+	{ "keys": ["ctrl+q"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+	{ "keys": ["ctrl+r"], "command": "show_panel", "args": {"panel": "replace"} },
+	{ "keys": ["ctrl+shift+r"], "command": "replace_next" },
+	{ "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } }
+]

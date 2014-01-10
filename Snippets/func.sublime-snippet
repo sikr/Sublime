@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+function ${1:name} (${2:param}) {
+	${3:do}
+}
+]]></content>
+	<tabTrigger>func</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
