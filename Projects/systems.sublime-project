@@ -2,7 +2,8 @@
 	"folders":
 	[
 		{
-			"path": "/C/etc/projects/systems"
+			"follow_symlinks": true,
+			"path": "C:\\etc\\projects\\systems"
 		}
 	]
 }
