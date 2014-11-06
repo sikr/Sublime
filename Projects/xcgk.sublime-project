@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "X:\\etc\\bas\\CGK\\src\\krn\\dw_gui"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "X:\\etc\\bas\\CGK\\src\\include"
+		}
+	]
+}
