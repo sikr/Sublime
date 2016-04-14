@@ -6,5 +6,6 @@
     // { "keys": ["ctrl+shift+j"], "command": "prettify_json" },
     // { "keys": ["ctrl+shift+x"], "command": "tidy_xml" },
     // { "keys": ["shift+ctrl+c"], "command": "exec", "args": { "cmd": ["cp_sapitsmapijs.cmd"]} },
-    { "keys": ["shift+ctrl+c"], "command": "exec", "args": { "cmd": ["cp_itseventjs.cmd"]} }
+    // { "keys": ["shift+ctrl+c"], "command": "exec", "args": { "cmd": ["cp_itseventjs.cmd"]} }
+    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
 ]
